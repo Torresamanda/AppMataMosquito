@@ -8,7 +8,7 @@
     A idéia desse projeto foi utilizar todas as linmguagens que eu aprendi até o momento, o projeto foi oferecido pelo professor Jorge Sant Ana. Com esse projeto eu pude avançar mais um pouco e me sinto orgulhosa do que consegui. 
 </p><br>
 
-                                             Nada satisfaz mais um programador do que ver seu projeto finalizado por mais simples que seja!! 
+               Nada satisfaz mais um programador do que ver seu projeto finalizado por mais simples que seja!! 
 
 <div>
     <img alt="Readme" title="Readme" src="gif/animacao.gif">
